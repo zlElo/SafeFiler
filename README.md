@@ -24,3 +24,7 @@ Questions and answers:
 
 - For which Systems is this program?
 > I write this program for Linux, but you can use it on Windows too!
+
+---------------------------------------------------------------------------
+
+Disclamer: I assume no liability for data loss or other possible damage!!!
